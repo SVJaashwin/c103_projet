@@ -1,0 +1,13 @@
+.heading{
+    width: 80%;
+}
+.camera{
+    width: 350px;
+    height: 300px;
+    border: 3.5px dashed olivedrab;
+    background-color: white;
+}
+
+body{
+    color: yellow;
+}
